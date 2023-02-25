@@ -1,0 +1,13 @@
+pandas
+Keras
+scipy
+matplotlib
+opencv_python
+numpy
+tqdm
+keras-vggface
+mtcnn
+Click
+Pillow
+scikit-learn
+tensorflow
